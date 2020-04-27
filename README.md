@@ -1,4 +1,4 @@
-#Comission Rate cacluation - CLI
+#Comission Rate calcuation - CLI
 ##Installation
 composer install
 
